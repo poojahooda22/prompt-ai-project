@@ -1,5 +1,7 @@
 "use client";
 import React, { useState } from 'react';
+import * as Lucide from 'lucide-react';
+import { motion, AnimatePresence } from 'framer-motion';
 import { LiveProvider, LivePreview, LiveError } from 'react-live';
 
 export default function AppBuilder() {
@@ -14,6 +16,7 @@ export default function AppBuilder() {
       body: JSON.stringify({ prompt }),
     });
     const data = await response.json();
+    console.log("RAW CODE FROM AI:", data.code);
     setGeneratedCode(data.code);
     setLoading(false);
   };
@@ -40,12 +43,16 @@ export default function AppBuilder() {
 
       {/* RIGHT: Preview Area */}
       <div className="w-2/3 bg-white text-black rounded-xl overflow-hidden shadow-2xl">
-        <LiveProvider code={generatedCode} noInline={true}>
+        <LiveProvider code={generatedCode} noInline={true}
+          scope={{ ...Lucide, motion, AnimatePresence, React }}
+        >
           <div className="p-4 border-b bg-gray-50 text-xs text-gray-500 font-mono">
             Preview Window
           </div>
-          <div className="p-10 min-h-125 bg-white">
-            <LivePreview /> 
+          <div className="p-20 min-h-150 bg-zinc-50 flex items-center justify-center">
+            <div className="w-full max-w-4xl">
+                <LivePreview />
+            </div>
           </div>
           <LiveError className="bg-red-100 text-red-600 p-4 text-xs" />
         </LiveProvider>
