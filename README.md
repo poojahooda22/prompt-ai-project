@@ -13,7 +13,7 @@ pnpm dev
 bu
 `
 Open [http://localhost:3000](http://localhost:3000) with your browser to see t
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you ed
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you e
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new
 To learn more about Next.js, take a look at the following resources
