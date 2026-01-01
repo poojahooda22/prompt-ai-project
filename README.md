@@ -8,7 +8,6 @@ First, run the development server:
 npm run de
 yarn 
 # o
-`
 Open [http://localhost:3000](http://localhost:3000) with your browser to see
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as yo
 
