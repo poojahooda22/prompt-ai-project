@@ -7,7 +7,8 @@ First, run the development server:
 ```bash
 #
 Open [http://localhost:3000](http://localhost:3000) with your browser 
-You can start editing the page by modifying `app/page.tsx`. The 
+You can start editing the page by modifying `app/page.tsx`. The
+
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font),
 To learn more about Next.js, take a look at the following resources
 
