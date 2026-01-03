@@ -11,6 +11,7 @@ You can start editing the page by modifying `app/page.tsx`
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font)
 To learn more about Next.js, take a look at the followin
+
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js featu
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js
 
