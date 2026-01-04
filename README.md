@@ -9,7 +9,7 @@ First, run the development server:
 Open [http://localhost:3000](http://localhost:3000) with your
 You can start editing the page by modifying `app/page.tsx`
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/fon
 To learn more about Next.js, take a look
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js 
