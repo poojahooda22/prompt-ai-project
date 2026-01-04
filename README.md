@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 First, run the development server:
 
-```bas
+```ba
 #
 Open [http://localhost:3000](http://localhost:3000) with you
 You can start editing the page by modifying `app/page.tsx`
