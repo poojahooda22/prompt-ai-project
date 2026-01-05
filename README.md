@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with
 
 ## Getting Started
 
-First, run the development s
+First, run the development 
 
 Open [http://localhost:3000](http://localhost:3000)
 You can start editing the page by modifying `app/page.ts`
