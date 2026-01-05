@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with
 
 First, run the development server
 
-Open [http://localhost:3000](http://localhost:3000) w
+Open [http://localhost:3000](http://localhost:3000)
 You can start editing the page by modifying `app/page.ts`
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
