@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with
 First, run the
 
 Open [http://localhost:3000](http://localhost:3000)
-You can start editing the
+You can start editing th
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
 to automatically optimize and load [Geist](https://vercel.com
