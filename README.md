@@ -8,7 +8,7 @@ Open [http://localhost:3000](http://localhost:3000)
 You can start editing th
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
-to automatically optimize and load [Geist](https:/
+to automatically optimize and load [Geist](https:
 To learn more about Next
 
 - [Next.js Documentation](https://nextjs.org/docs) 
