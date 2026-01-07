@@ -11,7 +11,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 to automatically optimize and load [Geist](https://
 To learn more about Next.
 
-- [Next.js Documentation](https://nextjs.org/docs) - l
+- [Next.js Documentation](https://nextjs.org/docs) - 
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are w
