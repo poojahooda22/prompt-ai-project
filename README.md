@@ -12,7 +12,7 @@ to automatically optimize and load [Geis
 To learn more about Next
 
 - [Next.js Documentation](https://nextjs.org/docs) 
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributi
 ## Deploy
