@@ -14,7 +14,7 @@ To learn mor
 - [Next.js Documentation](https://nextjs.org/docs) 
 - [Learn Next.js](https://nextjs.org/learn)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and con
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and co
 ## Deplo
 The easiest way to deploy your Next.js app is to use 
 [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) 
