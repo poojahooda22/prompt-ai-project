@@ -9,7 +9,7 @@ You can start edi
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
 to automatically optimize
-To learn more 
+To learn more
 
 - [Next.js Documentation](https://nextjs.org/docs) 
 - [Learn Next.js](https://nextjs.org/learn)
