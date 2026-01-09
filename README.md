@@ -12,7 +12,7 @@ to automatically optimize
 To learn more abo
 
 - [Next.js Documentation](https://nextjs.org/docs) 
-- [Learn Next.js](https://nextjs.org/learn) - an inte
+- [Learn Next.js](https://nextjs.org/learn) - an int
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contribu
 ## Deploy
