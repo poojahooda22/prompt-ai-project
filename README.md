@@ -11,7 +11,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 to automaticall
 To lear
 - [Next.js Documentation](https://nextjs.org/docs)
-- [Learn Next.js](https://nextjs.org/le
+- [Learn Next.js](https://nextjs.org/l
 You can check out [the Next.js GitHub repository](https://github.c
 ## Deplo
 The easiest way to deploy your Next.js app is to u
