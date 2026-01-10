@@ -11,11 +11,11 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 to automatically
 To learn mo
 - [Next.js Documentation](https://nextjs.org/docs) 
-- [Learn Next.js](https://nextjs.org/learn)
+- [Learn Next.js](https://nextjs.org/learn
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js)
 ## Deplo
-The easiest way to deploy your Next.js app is to us
+The easiest way to deploy your Next.js app is to u
 [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) 
 from the creators of Next.js.
 
