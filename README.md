@@ -12,7 +12,6 @@ to automaticall
 To lear
 - [Next.js Documentation](https://nextjs.org/docs) 
 - [Learn Next.js](https://nextjs.org/le
-
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js
 ## Deplo
 The easiest way to deploy your Next.js app is to u
