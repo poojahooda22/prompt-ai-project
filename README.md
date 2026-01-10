@@ -11,7 +11,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 to automatically
 To learn m
 - [Next.js Documentation](https://nextjs.org/docs) 
-- [Learn Next.js](https://nextjs.org/lea
+- [Learn Next.js](https://nextjs.org/le
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js)
 ## Deplo
