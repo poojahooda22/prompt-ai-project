@@ -10,7 +10,7 @@ You can start ed
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
 to automaticall
 To lea
-- [Next.js Documentation](https://nextjs.org/do
+- [Next.js Documentation](https://nextjs.org/d
 - [Learn Next.js](https://nextj
 You can check out [the Next.js GitHub reposit
 ## Depl
