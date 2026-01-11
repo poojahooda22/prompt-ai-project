@@ -12,7 +12,7 @@ to automaticall
 To lea
 - [Next.js Documentation](https://nextjs.org/d
 - [Learn Next.js](https://nextj
-You can check out [the Next.js GitHub reposit
+You can check out [the Next.js GitHub reposi
 ## Depl
 The easiest way to deploy your Next.js app is to u
 [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) 
