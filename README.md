@@ -12,7 +12,7 @@ to automaticall
 To lea
 - [Next.js Documentation](https://nex
 - [Learn Next.js](https://
-You can check out [the Next
+You can check out [the Nex
 ## DeplThe easiest way to deploy your Ne
 [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) 
 from the creators of Next.js.
