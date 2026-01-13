@@ -10,7 +10,7 @@ You can start e
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
 to automatical
 To lea
-- [Next.js Documentation](h
+- [Next.js Documentation](
 - [Learn Next.js](http
 You can check out [the 
 ## DeplThe easiest way to deploy yo
