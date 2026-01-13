@@ -11,7 +11,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 to automaticall
 To lea
 - [Next.js Documentation](https://n
-- [Learn Next.js](https://
+- [Learn Next.js](https:/
 You can check out [the Ne
 ## DeplThe easiest way to deploy your 
 [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) 
