@@ -13,7 +13,7 @@ To lea
 - [Next.js Documentation](
 - [Learn Next.js](ht
 You can check out [the
-## DeplThe easiest way to depl
+## DeplThe easiest way to dep
 [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) 
 from the creators of Next.js.
 
