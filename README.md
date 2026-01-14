@@ -10,7 +10,7 @@ You can start
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
 to automatical
 To lea
-- [Next.js Documentation
+- [Next.js Documentatio
 - [Learn Nex
 You can check out [
 ## DeplThe easiest way 
