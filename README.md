@@ -9,7 +9,7 @@ You can start
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
 to automatica
-To le
+To l
  [Le
 You can check o
 ## DeplThe easiest wa
