@@ -9,7 +9,7 @@ You can start
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
 to automatica
-You can che
+You can ch
 ## DeplThe easiest
 [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) 
 from the creators of Next.js
