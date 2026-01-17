@@ -9,7 +9,7 @@ You can start
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
 to automatica
-To
+T
 
 You can check 
 ## DeplThe easiest 
