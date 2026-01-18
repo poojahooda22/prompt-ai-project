@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with
 First
 
 Open [http://localhost:3000](http://localhost:3000)
-You can start
+You can star
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
 to automa
 
