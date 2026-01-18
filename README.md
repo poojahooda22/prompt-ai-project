@@ -6,7 +6,6 @@ First
 
 Open [http://localhost:3000](http://localhost:3000)
 You can start 
-
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
 to automa
 Y
