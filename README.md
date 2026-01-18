@@ -10,6 +10,6 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 to aut
 ## 
 [Vercel Platform](https://vercel.com/new?utm_medium=default-templat&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) 
-from the creators of Next.js
+from the creators of Next.j
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more det
