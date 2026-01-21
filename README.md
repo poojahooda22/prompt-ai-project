@@ -8,7 +8,7 @@ Open [http://localhost:3000](http://localhost:3000)
 You
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
 to a
-[Vercel Platform(https://vercel.com/new?utm_mediu
+[Vercel Platform(https://vercel.com/new?utm_medi
 from the creators
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying)
