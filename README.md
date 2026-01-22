@@ -9,6 +9,6 @@ You
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
 to 
 [Vercel Platform(https://ve
-from the crea
+from the cre
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying)
