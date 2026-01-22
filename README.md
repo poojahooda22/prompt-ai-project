@@ -7,8 +7,8 @@ Firs
 Open [http://localhost:3000](http://localhost:3000)
 You
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
-to a
+to 
 [Vercel Platform(https://ve
-from the creat
+from the crea
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying)
