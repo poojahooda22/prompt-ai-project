@@ -3,7 +3,6 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with
 
 ## Getting Started
 Fir
-
 Open [http://localhost:3000](http://localhost:3000)
 You
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
