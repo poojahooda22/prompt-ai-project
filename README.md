@@ -10,5 +10,4 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 to 
 [Vercel 
 from the c
-
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying)
