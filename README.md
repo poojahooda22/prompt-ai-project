@@ -9,5 +9,5 @@ You
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
 to
 [Verc
-from t
+from 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying)
