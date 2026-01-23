@@ -8,6 +8,6 @@ Open [http://localhost:3000](http://localhost:3000)
 You
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
 
-[V
+[
 from 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying)
