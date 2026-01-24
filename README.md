@@ -6,5 +6,5 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with
 Open [http://localhost:3000](http://localhost:3000)
 Yo
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/f
-fr
+f
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying)
