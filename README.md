@@ -4,4 +4,4 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with
 ## Getting Start
 Open [http://localhost:3000](http://localhost:3000)
 This project uses [`next/font`](https://n
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/ap/building-your-application/depy)
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/ap/building-your-appliction/depy)
