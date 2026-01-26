@@ -3,5 +3,5 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with
 
 ## Getting Start
 Open [http://localhost:3000](http://localhost:3000)
-This project uses [`next/font`](https://nextj
+This project uses [`next/font`](https://next
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/ap/building-your-application/deplyg)
