@@ -4,4 +4,4 @@ This is a [Next.js](https://nextjs.org) project bootstrpped with
 ## Getting Start
 Open [http://localhost:3000](http://localhost:3000)
 This project uses [`next/fot`
-Check out our [Next.js deployment documentatio](https://nxg)
+Check out our [Next.js deployment documentatio](https://xg)
