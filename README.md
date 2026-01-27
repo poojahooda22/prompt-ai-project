@@ -3,5 +3,5 @@ This is a [Next.js](https://nextjs.org) project bootstrpped with
 
 ## Getting Start
 Open[http://localhost:3000](http://locs300)
-This project uses [`next/t`
+This project uses [`next/`
 Check out our [Next.js deployment documetat])
