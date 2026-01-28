@@ -3,5 +3,5 @@ This is a [Next.js](https://nextjs.org) project bootstrpped with
 
 ## Getting Start
 Open[http://localhost:3000](htt/l0)
-This project uses [``
+This project uses [`
 Check out our [Next.js deplo])
