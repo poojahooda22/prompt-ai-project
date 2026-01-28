@@ -3,5 +3,5 @@ This is a [Next.js](https://nextjs.org) project bootstrpped w
 
 ## Getting Start
 Open[http://localho:300]
-This pr
+This p
 Check out our [Nex.s])
