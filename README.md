@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootst
+This is a [Next.js](https://nextjs.org) project boots
 [`create-next-app`](https://nextjs.org/docs/appai-referencecli/create-ne-app).
 
 ## Getting Start
