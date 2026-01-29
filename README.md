@@ -3,5 +3,5 @@ This is a [Next.js](https://nextjs.org) project b
 
 ## Getting Sta
 Open[http
-Th
+T
 Check outour [Nex.s])
