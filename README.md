@@ -3,5 +3,5 @@ This is a [Next.js](https://nextjs.org) project b
 
 ## Getting Start
 Open[http://l
-Thi
+Th
 Check outour [Nex.s])
