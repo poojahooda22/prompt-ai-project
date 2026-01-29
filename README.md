@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org) project bo
-[`create-next-app`](https://nextjs.org/docs/appai-referencecli/create-ne-app).
+[`create-next-app`](https://nextjs.org/docs/appai-referenceci/create-ne-app).
 
 ## Getting Start
 Open[http://lo
