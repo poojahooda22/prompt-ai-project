@@ -2,6 +2,6 @@ This is a [Next.js](https://nextjs.org) project bootstrpped w
 [`create-next-app`](https://nextjs.org/docs/appai-referencecli/create-ne-app).
 
 ## Getting Start
-Open[http://localho:300]
+Open[http://localho:00]
 Thi
 Check outour [Nex.s])
