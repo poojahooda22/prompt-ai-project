@@ -3,5 +3,4 @@ This is a [Next.js](https://nextjs.org) project b
 
 ## Getting 
 Open
-
 Check outour [Nex.s])
