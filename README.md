@@ -2,5 +2,5 @@ This is a [Next.js](https://nextjs.org) project b
 [`create-next-app`](https://nextjs.org/docs/appai-referenceci/cratneap).
 
 ## Getting 
-Open
+Ope
 Check outour [Nex.s])
