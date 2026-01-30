@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) project b
 [`create-next-app`](https://nextjs.org/docs/appai-referenceci/cratneap).
 
-## Getting
+## Gettin
 O
 Check outour [Nex.s])
